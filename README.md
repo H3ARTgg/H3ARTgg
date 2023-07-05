@@ -1,16 +1,20 @@
-### Hi there 👋
+# 👋 Привет!
+Я Максим Фасхетдинов, iOS-разработчик
 
-<!--
-**H3ARTgg/H3ARTgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚙️ Стек  
+**Язык**: Swift\
+**Архитектруры**: MVC, MVP, MVVM\
+**Верстка**: Кодом, InterfaceBuilder(Storyboards, XIB)\
+**Хранение**: UserDefaults, Keychain, CoreData\
+**Менеджеры зависимостей**: SPM, CocoaPods\
+**Библиотеки**: Foundation, UIKit, WebKit, SnapKit, SnapshotTesting, SwiftKeychainWrapper, \
+ProgressHUD, Kingfisher, Combine (в данный момент изучаю)\
+**Тесты**: Unit, UI, Screenshot\
+**Прочее**: Xcode, Git, Bash, URLSession, REST API, GCD, KVO, NotificationCenter, PropertyWrappers, Clousers, JSON, Adobe Photoshop, Figma
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💼 Проекты
+Магазин NFT: [FakeNFT](https://github.com/H3ARTgg/iOS-FakeNFT-StarterProject-Public "https://github.com/H3ARTgg/iOS-FakeNFT-StarterProject-Public")\
+Трекер привычек: [Tracker](https://github.com/H3ARTgg/Tracker "https://github.com/H3ARTgg/Tracker")\
+Лента изображений Unsplash: [ImageFeed](https://github.com/H3ARTgg/ImageFeed "https://github.com/H3ARTgg/ImageFeed")\
+Квиз по топ 250 фильмам IMDb: [MovieQuiz](https://github.com/H3ARTgg/MovieQuiz-ios "https://github.com/H3ARTgg/MovieQuiz-ios")\
+[Другие проекты](https://github.com/H3ARTgg?tab=repositories "https://github.com/H3ARTgg?tab=repositories")
