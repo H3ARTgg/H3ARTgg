@@ -13,8 +13,8 @@ ProgressHUD, Kingfisher, Combine (в данный момент изучаю)\
 **Прочее**: Xcode, Git, Bash, URLSession, REST API, GCD, KVO, NotificationCenter, PropertyWrappers, Clousers, JSON, Adobe Photoshop, Figma
 
 # 💼 Проекты
-Магазин NFT: [FakeNFT](https://github.com/H3ARTgg/iOS-FakeNFT-StarterProject-Public "https://github.com/H3ARTgg/iOS-FakeNFT-StarterProject-Public")\
-Трекер привычек: [Tracker](https://github.com/H3ARTgg/Tracker "https://github.com/H3ARTgg/Tracker")\
-Лента изображений Unsplash: [ImageFeed](https://github.com/H3ARTgg/ImageFeed "https://github.com/H3ARTgg/ImageFeed")\
-Квиз по топ 250 фильмам IMDb: [MovieQuiz](https://github.com/H3ARTgg/MovieQuiz-ios "https://github.com/H3ARTgg/MovieQuiz-ios")\
-[Другие проекты](https://github.com/H3ARTgg?tab=repositories "https://github.com/H3ARTgg?tab=repositories")
+Магазин NFT, **FakeNFT**: https://github.com/H3ARTgg/iOS-FakeNFT-StarterProject-Public \
+Трекер привычек, **Tracker**: https://github.com/H3ARTgg/Tracker \
+Лента изображений Unsplash, **ImageFeed**: https://github.com/H3ARTgg/ImageFeed \
+Квиз по топ 250 фильмам IMDb, **MovieQuiz**: https://github.com/H3ARTgg/MovieQuiz-ios \
+Другие проекты: https://github.com/H3ARTgg?tab=repositories 
