@@ -8,7 +8,7 @@
 **Хранение**: UserDefaults, Keychain, CoreData\
 **Менеджеры зависимостей**: SPM, CocoaPods\
 **Библиотеки**: Foundation, UIKit, WebKit, SnapKit, SnapshotTesting, SwiftKeychainWrapper, \
-ProgressHUD, Kingfisher, Combine (в данный момент изучаю)\
+ProgressHUD, Kingfisher, Combine\
 **Тесты**: Unit, UI, Screenshot\
 **Прочее**: Xcode, Git, Bash, URLSession, REST API, GCD, KVO, NotificationCenter, PropertyWrappers, Clousers, JSON, Adobe Photoshop, Figma
 
