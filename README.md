@@ -19,7 +19,7 @@ T2: https://apps.apple.com/us/app/t2-%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D1%83%D1%80
 Более 20 проектов, выгруженных в AppStore
 
 # 💼 Пет-проекты
-Поиск репозиториев, TCA + SwiftUI: https://github.com/H3ARTgg/LegionTest
+Поиск репозиториев, TCA + SwiftUI: https://github.com/H3ARTgg/LegionTest \
 Библиотека персонажей из RickAndMorty, **RickAndMortyDemo**: https://github.com/H3ARTgg/RickAndMortyDemo \
 Магазин NFT, **FakeNFT**: https://github.com/H3ARTgg/iOS-FakeNFT-StarterProject-Public \
 Трекер привычек, **Tracker**: https://github.com/H3ARTgg/Tracker \
